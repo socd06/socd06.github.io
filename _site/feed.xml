@@ -5,9 +5,35 @@
     <description>Project portfolio of mechatronics engineer Carlos Salgado. Subjects: Image Processing, Programming, Signal Processing, Research, Software Development</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 20 Feb 2020 21:57:47 -0500</pubDate>
-    <lastBuildDate>Thu, 20 Feb 2020 21:57:47 -0500</lastBuildDate>
+    <pubDate>Wed, 26 Feb 2020 17:09:11 -0500</pubDate>
+    <lastBuildDate>Wed, 26 Feb 2020 17:09:11 -0500</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>AWS DeepRacer</title>
+        <description>
+</description>
+        <pubDate>Sun, 23 Feb 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/deep%20learning/2020/02/23/AWS-deepracer/</link>
+        <guid isPermaLink="true">http://localhost:4000/deep%20learning/2020/02/23/AWS-deepracer/</guid>
+        
+        
+        <category>Deep Learning</category>
+        
+      </item>
+    
+      <item>
+        <title>IoT PyTorch Transfer Learning</title>
+        <description>
+</description>
+        <pubDate>Mon, 17 Feb 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/deep%20learning/2020/02/17/IOT-TL/</link>
+        <guid isPermaLink="true">http://localhost:4000/deep%20learning/2020/02/17/IOT-TL/</guid>
+        
+        
+        <category>Deep Learning</category>
+        
+      </item>
     
       <item>
         <title>Text Mining with Python</title>
@@ -49,7 +75,7 @@
       </item>
     
       <item>
-        <title>DICOM Bone Volume Renderer</title>
+        <title>C++ Bone Volume Renderer</title>
         <description>
 </description>
         <pubDate>Thu, 04 Jul 2019 00:00:00 -0400</pubDate>
@@ -75,7 +101,7 @@
       </item>
     
       <item>
-        <title>Development of image-based surgical planning software for bone-conduction implants</title>
+        <title>Image-based surgical planning</title>
         <description>
 </description>
         <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
@@ -88,38 +114,12 @@
       </item>
     
       <item>
-        <title>C POSIX and RTLinux HVAC simulation</title>
+        <title>C POSIX HVAC simulation</title>
         <description>
 </description>
         <pubDate>Sat, 06 Aug 2011 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/mechatronics/2011/08/06/RTOSHVAC/</link>
         <guid isPermaLink="true">http://localhost:4000/mechatronics/2011/08/06/RTOSHVAC/</guid>
-        
-        
-        <category>Mechatronics</category>
-        
-      </item>
-    
-      <item>
-        <title>Robotic Kinematics</title>
-        <description>
-</description>
-        <pubDate>Wed, 22 Sep 2010 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/robotics/2010/09/22/Robotics/</link>
-        <guid isPermaLink="true">http://localhost:4000/robotics/2010/09/22/Robotics/</guid>
-        
-        
-        <category>Robotics</category>
-        
-      </item>
-    
-      <item>
-        <title>LabVIEW DAQ Live Temperature Monitoring</title>
-        <description>
-</description>
-        <pubDate>Mon, 23 Aug 2010 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/mechatronics/2010/08/23/DAQ-Temp/</link>
-        <guid isPermaLink="true">http://localhost:4000/mechatronics/2010/08/23/DAQ-Temp/</guid>
         
         
         <category>Mechatronics</category>

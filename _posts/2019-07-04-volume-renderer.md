@@ -1,6 +1,6 @@
 ---
-title: DICOM Bone Volume Renderer
-subtitle: C++ VTK computed tomography volume renderer
+title: C++ Bone Volume Renderer
+subtitle: DICOM Computed tomography
 layout: default
 modal-id: 6
 date: 2019-07-04

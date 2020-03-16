@@ -1,5 +1,5 @@
 ---
-title: AWS DeepRacer Reinforcement Learning
+title: AWS DeepRacer
 subtitle: Cloud Reinforcement Learning
 layout: default
 modal-id: 7

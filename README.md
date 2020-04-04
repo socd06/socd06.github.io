@@ -1,5 +1,8 @@
 Portfolio Website
 ====================
+![powered by Jekyll](https://img.shields.io/badge/powered_by-Jekyll-yellow.svg)
+[![License](https://img.shields.io/github/license/socd06/socd06.github.io)](https://opensource.org/licenses/MIT)
+
 Used Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
 
 ### Portfolio 

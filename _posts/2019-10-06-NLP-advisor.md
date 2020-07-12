@@ -2,7 +2,7 @@
 title: Student Advisor Bot
 subtitle: Natural Language Processing API
 layout: default
-modal-id: 6
+modal-id: 4
 date: 2019-10-06
 img: advisor.jpg
 thumbnail: advisor-thumbnail.jpg

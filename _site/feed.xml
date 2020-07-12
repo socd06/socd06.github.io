@@ -5,9 +5,22 @@
     <description>Project portfolio of mechatronics engineer Carlos Salgado. Subjects: Image Processing, Programming, Signal Processing, Research, Software Development</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 10 Jul 2020 13:46:25 -0400</pubDate>
-    <lastBuildDate>Fri, 10 Jul 2020 13:46:25 -0400</lastBuildDate>
+    <pubDate>Sat, 11 Jul 2020 21:13:59 -0400</pubDate>
+    <lastBuildDate>Sat, 11 Jul 2020 21:13:59 -0400</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Encrypted Machine Learning</title>
+        <description>
+</description>
+        <pubDate>Tue, 07 Jul 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/deep%20learning,%20cybersecurity/2020/07/07/private-ml/</link>
+        <guid isPermaLink="true">http://localhost:4000/deep%20learning,%20cybersecurity/2020/07/07/private-ml/</guid>
+        
+        
+        <category>Deep Learning, Cybersecurity</category>
+        
+      </item>
     
       <item>
         <title>IoT People Counter</title>
@@ -45,19 +58,6 @@
         
         
         <category>Deep Learning</category>
-        
-      </item>
-    
-      <item>
-        <title>Text Mining with Python</title>
-        <description>
-</description>
-        <pubDate>Thu, 31 Oct 2019 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/data%20science/2019/10/31/NLP-python/</link>
-        <guid isPermaLink="true">http://localhost:4000/data%20science/2019/10/31/NLP-python/</guid>
-        
-        
-        <category>Data Science</category>
         
       </item>
     

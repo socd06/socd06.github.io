@@ -2,7 +2,7 @@
 title: IoT People Counter
 subtitle: Edge AI inference with OpenVINO
 layout: default
-modal-id: 8
+modal-id: 7
 date: 2020-05-25
 img: people-counter-image.png
 thumbnail: people-counter-thumbnail.png

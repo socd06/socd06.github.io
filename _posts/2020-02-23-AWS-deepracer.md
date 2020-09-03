@@ -2,7 +2,7 @@
 title: AWS DeepRacer
 subtitle: Cloud Reinforcement Learning
 layout: default
-modal-id: 7
+modal-id: 6
 date: 2020-02-23
 img: deepracer.jpg
 thumbnail: deepracer-thumbnail.jpg

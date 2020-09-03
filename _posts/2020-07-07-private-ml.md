@@ -2,7 +2,7 @@
 title: Encrypted Machine Learning
 subtitle: Private Natural Language Processing
 layout: default
-modal-id: 9
+modal-id: 8
 date: 2020-07-07
 img: nlp-loss.png
 thumbnail: nlp-loss-thumbnail.png

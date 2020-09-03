@@ -1,7 +1,7 @@
 title: Carlos Salgado, M.E.SC., B.Eng.
 email: csalgado@uwo.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Project portfolio of mechatronics engineer Carlos Salgado. Subjects: Image Processing, Programming, Signal Processing, Research, Software Development
+  Project portfolio of mechatronics engineer Carlos Salgado. Categories: Artificial Intelligence, Research, Software Development, Medical Image Processing, IoT, Cloud
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://socd06.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -9,7 +9,7 @@ url: "https://socd06.github.io" # the base hostname & protocol for your site, e.
 people:
 - name: Carlos Salgado
   pic: 1
-  position: 
+  position:
   social:
     - title: github
       url: http://github.com/socd06
@@ -17,7 +17,7 @@ people:
       url: https://www.linkedin.com/in/eng-socd/
     - title: envelope
       url: mailto:csalgado@uwo.ca
-    
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
    - title: github

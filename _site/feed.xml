@@ -5,9 +5,22 @@
     <description>Project portfolio of mechatronics engineer Carlos Salgado. Subjects: Image Processing, Programming, Signal Processing, Research, Software Development</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 11 Jul 2020 21:13:59 -0400</pubDate>
-    <lastBuildDate>Sat, 11 Jul 2020 21:13:59 -0400</lastBuildDate>
+    <pubDate>Thu, 03 Sep 2020 15:57:14 -0400</pubDate>
+    <lastBuildDate>Thu, 03 Sep 2020 15:57:14 -0400</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Flask Hospital Finder App</title>
+        <description>
+</description>
+        <pubDate>Sat, 01 Aug 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/aws,%20full%20stack%20development,%20geospatial%20analysis/2020/08/01/flask-hospitals/</link>
+        <guid isPermaLink="true">http://localhost:4000/aws,%20full%20stack%20development,%20geospatial%20analysis/2020/08/01/flask-hospitals/</guid>
+        
+        
+        <category>AWS, Full Stack Development, Geospatial Analysis</category>
+        
+      </item>
     
       <item>
         <title>Encrypted Machine Learning</title>
@@ -58,19 +71,6 @@
         
         
         <category>Deep Learning</category>
-        
-      </item>
-    
-      <item>
-        <title>Online Shop-Deployed Bot</title>
-        <description>
-</description>
-        <pubDate>Mon, 07 Oct 2019 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/machine%20learning/2019/10/07/NLP-WP/</link>
-        <guid isPermaLink="true">http://localhost:4000/machine%20learning/2019/10/07/NLP-WP/</guid>
-        
-        
-        <category>Machine Learning</category>
         
       </item>
     

@@ -8,8 +8,8 @@ img: hospitals.jpg
 thumbnail: hospitals-thumbnail.png
 alt: image-alt
 project-date: September 2020
-projecturl: http://hospitalbeds.link/
+projecturl: https://github.com/socd06/hospital-beds
 category: AWS, Full Stack Development, Geospatial Analysis
 technology: AWS, Flask, Python, Pandas, JavaScript, Bootstrap
-description: Interactive geospatial app that shows bed capacity of hospitals in selected location. Hosted with AWS and developed with Python Flask as part of the AWS Data Exchange Challenge.
+description: Interactive geospatial app that shows bed capacity of hospitals in selected location. Hosted with AWS and developed with Python Flask as part of the AWS Data Exchange Challenge Hackathon. NOTE: Website is temporarily down due to AWS charges since December 2020.
 ---

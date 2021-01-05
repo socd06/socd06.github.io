@@ -9,7 +9,7 @@ thumbnail: deepracer-thumbnail.jpg
 alt: image-alt
 project-date: February 2020
 projecturl: https://github.com/socd06/aws_deepracer
-category: Deep Learning
+category: Artificial Intelligence
 technology: Deep Learning, CNN, AWS, Gazebo, SageMaker
 description: Convolutional Neural Networks training applying AWS Lambda function, optimization using SageMaker and simulation tested on RoboMaker.
 ---

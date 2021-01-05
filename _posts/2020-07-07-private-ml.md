@@ -9,7 +9,7 @@ thumbnail: nlp-loss-thumbnail.png
 alt: image-alt
 project-date: July 2020
 projecturl: https://blog.openmined.org/encrypted-training-medical-text-syfertext/
-category: Deep Learning, Cybersecurity
+category: Artificial Intelligence
 technology: PyTorch, Python, Numpy, Scikit-learn, Jupyter Notebooks, Pandas, Seaborn
 description: Medical text database data modeling and training of encrypted Natural Language Processing (NLP) text classification model using privacy protecting PyTorch libraries.
 ---
